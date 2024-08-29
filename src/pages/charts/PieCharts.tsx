@@ -1,22 +1,6 @@
 import AdminSidebar from '../../components/AdminSidebar'
 import { DoughnutChart,PieChart } from "../../components/Charts";
-import{categories} from "../../assets/data.json"
 
-const months=[
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December"
-
-]
 const PieCharts = () => {
   return (
     <div className='adminContainer'>

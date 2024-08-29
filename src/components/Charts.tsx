@@ -163,7 +163,7 @@ import {
     labels,
     data,
     backgroundColor,
-    offset,
+    
   }: PieChartProps) => {
     const pieChartData: ChartData<"pie", number[], string> = {
       labels,
