@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import AdminSidebar from '../../components/AdminSidebar'
 import { OrderItemType, OrderType } from '../../type'
 import { Link } from 'react-router-dom'
